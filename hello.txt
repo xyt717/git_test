@@ -4,4 +4,8 @@ yyyyyy
 helloyy
 p
 op
+<<<<<<< HEAD
 gqvdhabjnsxkmc,vb./n
+=======
+xzxzxzxzxzxzxzxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+>>>>>>> hot-fix
